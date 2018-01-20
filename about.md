@@ -7,7 +7,8 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+I am a Diana Yaming Xu, a student currently studying Interactive Media Art at NYU Shanghai. I am interested in the fields of immersive media, art installation and VR/AR/MR. 
+I am an artist and also a thinker. Compared to make things pretty, I focus more on make things interesting and meaningful.
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
 

@@ -8,7 +8,7 @@ permalink: /about/
 
 <br/>
 I am a Diana Yaming Xu, a student currently studying Interactive Media Art at NYU Shanghai. I am interested in the fields of immersive media, art installation and VR/AR/MR. 
-I am an artist and also a thinker. Compared to make things pretty, I focus more on make things interesting and meaningful.
+I believe that art happens between input and output. Compared to make things pretty, I devoted more to making things interesting and surprising.
 
 
 

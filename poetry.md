@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /poetry/
+published: false
 title: poetry
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
